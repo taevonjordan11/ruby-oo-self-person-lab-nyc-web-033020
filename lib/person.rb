@@ -81,8 +81,4 @@ class Person
       second ||= "blah"
       base_string = "blah blah #{first} blah #{second}"
     end
-
-
-
-
 end
